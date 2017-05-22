@@ -17,7 +17,8 @@ const gutil = require('gulp-util');
 exports.paths = {
   src: 'src',
   dist: 'dist',
-  tmp: '.tmp',
+  //tmp: '.tmp',
+  tmp: 'dev',
   e2e: 'e2e',
   tasks: 'gulp_tasks'
 };

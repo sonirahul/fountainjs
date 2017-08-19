@@ -1,3 +1,4 @@
 # fountainjstest
 test
 hello
+hello
